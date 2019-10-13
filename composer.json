@@ -1,0 +1,21 @@
+{
+    "name": "root/nfqhomework",
+    "description": "1st Homework php basic",
+    "authors": [
+        {
+            "name": "Migle Kraskauskaite",
+            "email": "kr.migle@gmail.com"
+        }
+    ],
+    "require": {
+        "jakub-onderka/php-console-color": "^0.2.0"
+    },
+    "autoload": {
+        "files": [
+            "functions/nfq.php",
+            "functions/notTyped.php",
+            "functions/soft.php",
+            "functions/strict.php"
+        ]
+    }
+}
